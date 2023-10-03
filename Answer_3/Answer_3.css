@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+    background-color: #3477eb;
+    display: flex;
+    padding: 23px;
+}
+a{
+    
+}
+.nav-items{
+  color:antiquewhite;
+  display: inline-block;
+
+    margin-left: 3px;
+  
+  width: 10%;
+}
+.nav--items-borderstyle-solid{
+    border:6px solid blueviolet;
+}
+.nav--items-borderstyle-dashed{
+    border:6px dashed blueviolet;
+}
+.nav--items-borderstyle-dotted{
+    border:6px dotted blueviolet;
+}
+.nav--items-borderstyle-groove{
+    border:6px groove blueviolet;
+}
+.nav--items-borderstyle-ridge{
+    border:6px ridge blueviolet;
+}
+

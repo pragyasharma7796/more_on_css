@@ -1,0 +1,22 @@
+.div1{
+    background-color: #deb887;
+    display: inline-block;
+    margin-left: 25%;
+    border-radius: 5%;
+    width: 300px;
+    margin: 150px 0px 0px 40%;
+}
+img{
+    border-radius: 5%;
+    display: inline-block;
+    margin-left: 25px;
+    margin-top: 25px;
+    width: 250px;
+    height: 200px;
+    
+    
+}
+p{
+    margin: 25px;
+    text-justify: distribute;
+}
